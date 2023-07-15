@@ -1,5 +1,11 @@
 # @sveltejs/site-kit changelog
 
+## 6.0.0-next.21
+
+### Patch Changes
+
+- 1462fbe: Fix nav flickering on mobile
+
 ## 6.0.0-next.20
 
 ### Patch Changes
